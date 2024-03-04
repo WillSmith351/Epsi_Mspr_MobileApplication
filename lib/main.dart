@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'pages/connexion_page.dart';
+
 
 void main() {
   runApp(MyApp());
@@ -61,20 +63,22 @@ class MyHomePage extends StatelessWidget {
                 ),
                 child: ElevatedButton(
                   onPressed: () {
-                    // Ajoutez la logique pour naviguer à la page suivante
+                    Navigator.of(context).push(
+                      MaterialPageRoute(builder: (context) => ConnexionPage()),
+                    );
                   },
-                  child: Text(
-                    'Commencer',
-                      style: TextStyle(
-                      fontSize: 25, // Taille du texte
-                      color: Colors.white, // Couleur du texte
-                    ),
-                  ),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.transparent, // Fond transparent pour afficher le gradient
                     shadowColor: Colors.transparent, // Aucune ombre
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(30), // Arrondir les coins du bouton
+                    ),
+                  ),
+                  child: Text(
+                    'Commencer',
+                      style: TextStyle(
+                      fontSize: 25, // Taille du texte
+                      color: Colors.white, // Couleur du texte
                     ),
                   ),
                 ),
