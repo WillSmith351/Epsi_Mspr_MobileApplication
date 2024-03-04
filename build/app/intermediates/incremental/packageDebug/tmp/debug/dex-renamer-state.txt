@@ -1,4 +1,4 @@
-#Mon Mar 04 21:19:22 CET 2024
+#Mon Mar 04 22:21:42 CET 2024
 base.0=C\:\\Users\\Willi\\Desktop\\epsi_mspr_mobileapplication\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
