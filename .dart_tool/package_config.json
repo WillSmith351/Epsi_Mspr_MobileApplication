@@ -117,7 +117,7 @@
     },
     {
       "name": "provider",
-      "rootUri": "file:///C:/Users/de-fe/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.1",
+      "rootUri": "file:///C:/Users/de-fe/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -182,7 +182,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-03-03T23:24:16.375612Z",
+  "generated": "2024-03-04T00:10:53.444261Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }
