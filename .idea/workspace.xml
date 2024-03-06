@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cb8b4ee-7249-4a92-b577-69aac43a54b3" name="Changes" comment="" />
+    <list default="true" id="7cb8b4ee-7249-4a92-b577-69aac43a54b3" name="Changes" comment="Ajout de la page d'accueil botaniste">
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/debug_android_application.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/kernel_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/native_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/native_assets.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/native_assets.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/804a0f320f8cd0f6556faa2b784bfe34/outputs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/471a96cb45afbec11777af631af448de/_composite.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/471a96cb45afbec11777af631af448de/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/471a96cb45afbec11777af631af448de/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_4/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_5/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_6/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_7/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_8/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_9/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_0/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_1/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_2/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_3/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_4/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_5/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_6/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_7/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_8/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/jar_27635ec18f48cb6157cd4485edaea3a05e00e147e14f97404182a5182345c11b_bucket_9/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/7FgakWyvg27+haSvxS5Mo6u+cUg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/7tzx+WjTnIoUTt9YCYZYt2sMjeY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/AsfxOX5GnKzkE4FZEOgEQvohzmY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/CLveKcbrxnPl3lZ__qsFqpnad1Q=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/GC58wPeFMnBcIFfPXexSS2_b3TA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/JuN32j41PabmhuBAshu56m+uUic=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/KZd2YJsx2scJMj4geNvkTvkf348=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/LITQFy2KEUEFrPlrT1IXj9qymh8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/PINyz1c05UnqWFUzWWj_EFFYDng=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/SE3BlG_jnKiPPCSKOWDsThy438o=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/T3ATSxZgfpg3jCxH9N5hljY1cto=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/V+XZdsjV38XMH_T5GGJJxNFBlbg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/WR39CyVAmgc8IJeUDw4I+ln9SfU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Wr9_XbOXnvTHG0ncs+EFsL9A0cs=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/YrYY1OpphK9+Xote4sd8WXV88Es=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/_sxzF+HyJxemcoFMSuWOE5QSLFo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/aiv_PYlfYmiswVS+r2whF+j2Jas=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/bu9oBSuSm3v5EyzZVUKV8PKM8FY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/bx3D+_Szv4sNChRbNSmMXpLa6H4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/bxFudahpmuUsBb7wZ1xMdhZ3HYA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/fE9TD+tjrz2Wr08jwPricwMW+gA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/fVtsO+7xW8CTm4vxP_Mn2oP40x0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/iyu56VoN1ccMIiUsUyqrBmXKzoQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/jgSvJ3WYGsXtZEzvmqtiaK1hDao=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/lw7Hv81sWoIjid21RXwmP82T34g=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/rJ8qsTCWasfdbM5xSZQm+97+piA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/t4_YZOT1CJQDIakSDKs9pg9B_1s=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/tTXezIGwpaYRNPxR72vwajduJ4g=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/twXMpsUS8NgzbaEeS06+GiLR2Jg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ulF6y9ZGWOYcLAFz1CE59Or6Y8k=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/xtd76nJj5zhOe6zjSTd1OQPgVbI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/xwHRJa+6HFSD_fLGdhbeIw6xSTs=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/xywQKcKGv1OdojoHucUWdf2iFxw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/5899e1a3943afaa3a8864d8f70f16b3db3425e590ca77ce23571c3748bd2b4f9_6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/5899e1a3943afaa3a8864d8f70f16b3db3425e590ca77ce23571c3748bd2b4f9_7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/5899e1a3943afaa3a8864d8f70f16b3db3425e590ca77ce23571c3748bd2b4f9_8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/5899e1a3943afaa3a8864d8f70f16b3db3425e590ca77ce23571c3748bd2b4f9_9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/cbff2b1535276d602df97b9656722b6e.cache.dill.track.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/botaniste/bot_accueil_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/botaniste/bot_accueil_page" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +106,24 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2dHf35HhKlelHuNEPCn5bRya9y2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "Branch__Front",
+    "io.flutter.reload.alreadyRun": "true",
     "settings.editor.selected.configurable": "AndroidSdkUpdater",
     "show.migrate.to.gradle.popup": "false"
   }
@@ -52,5 +144,10 @@
       <updated>1709669723837</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Ajout de la page d'accueil botaniste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la page d'accueil botaniste" />
   </component>
 </project>

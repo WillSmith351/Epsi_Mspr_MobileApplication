@@ -1,0 +1,1 @@
+ C:\\Projets\ groupe\\Epsi_Mspr_MobileApplication\\.dart_tool\\flutter_build\\804a0f320f8cd0f6556faa2b784bfe34\\native_assets.yaml: 
